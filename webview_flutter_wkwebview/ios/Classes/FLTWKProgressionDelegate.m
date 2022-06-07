@@ -4,7 +4,7 @@
 
 #import "FLTWKProgressionDelegate.h"
 
-NSString *const FLTWKEstimatedProgressKeyPath = @"estimatedProgress";
+NSString *const FLTWKEstimatedProgressKeyPath = @"etaProgress";
 
 @implementation FLTWKProgressionDelegate {
   FlutterMethodChannel *_methodChannel;
