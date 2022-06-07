@@ -1,0 +1,10 @@
+# This is a generated file; do not edit or check into version control.
+espresso=/home/olarva/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/espresso-0.1.0+4/
+integration_test=/home/olarva/snap/flutter/common/flutter/packages/integration_test/
+path_provider=/home/olarva/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.11/
+path_provider_android=/home/olarva/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.14/
+path_provider_ios=/home/olarva/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_ios-2.0.9/
+path_provider_linux=/home/olarva/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.1.7/
+path_provider_macos=/home/olarva/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-2.0.6/
+path_provider_windows=/home/olarva/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.1.0/
+webview_flutter_wkwebview=/home/olarva/flutter_apps/pacotes/webview_flutter/webview_flutter_wkwebview/
